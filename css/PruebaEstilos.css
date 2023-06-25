@@ -1,8 +1,12 @@
 body {
   font-size: larger;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 p {
   color: rgb(19, 120, 209);
+}
+
+#cabecera{
+     color: red;
 }
