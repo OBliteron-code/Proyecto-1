@@ -1,3 +1,3 @@
 Este es el archivo de prueba para el curso de Git y GitHub.
 
-Como es el archivo de pueba, probamos con una nueva linea.
+Como es el archivo de pueba, probamos con una nueva linea nueva con amor.
